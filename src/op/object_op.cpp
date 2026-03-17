@@ -22,6 +22,8 @@
 
 #include "Poco/DigestStream.h"
 #include "Poco/JSON/Parser.h"
+#include "Poco/JSON/Object.h"
+#include "Poco/JSON/JSONException.h"
 #include "Poco/MD5Engine.h"
 #include "Poco/RecursiveDirectoryIterator.h"
 #include "Poco/SortedDirectoryIterator.h"

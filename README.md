@@ -1,3 +1,6 @@
+
+> ✅ **提示**：cos_sdk 在 macOS Tahoe 26.3 编译时三方库 poco 报错，更新 poco 至 1.14.2 可解决报错，但 cos_sdk 未适配新版 poco，因此 fork 该仓库后自行修改
+
 ## 下载与安装
 
 #### 编译选项
